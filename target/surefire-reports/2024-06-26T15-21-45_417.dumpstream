@@ -1,0 +1,5 @@
+# Created at 2024-06-26T15:21:46.943
+Boot Manifest-JAR contains absolute paths in classpath 'H:\WorkSpace for Spring\34-RESTapi-crud-H2DBswagger\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+
